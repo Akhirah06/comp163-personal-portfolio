@@ -10,3 +10,10 @@ current_courses = ["COMP 163", "MATH 131", "SPCH 250", "HIST 106", "GEEN 111", "
 completed_courses = ["Psychology", "Physics", "College Algebra", "Elementary Japanese", "World History"]
 credit_hours = [3, 4, 1, 1, 3, 3]
 gpa_history = [3.2, 3.6, 3.4, 3.7]
+
+#Contact Information Storage
+emergency_contact = ["Mom", "Thelisha Glover", 404-942-7586]
+home_address = ["841 Killian Street", "Atlanta, GA", 30316]
+instagram_info = ["Instagram", "@ahhkii.be.thinkin", 346]
+tiktok_info = ["Tiktok", "@cxiberaltwitch", 32]
+student_birthday = ["Birthday", 12, 17, 2006]
