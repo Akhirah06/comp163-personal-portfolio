@@ -17,3 +17,10 @@ home_address = ["841 Killian Street", "Atlanta, GA", 30316]
 instagram_info = ["Instagram", "@ahhkii.be.thinkin", 346]
 tiktok_info = ["Tiktok", "@cxiberaltwitch", 32]
 student_birthday = ["Birthday", 12, 17, 2006]
+
+#interest Tracking
+current_skills = {"Leadership", "Problem Sloving", "Recordkeeping", "Competent Communication"}
+skills_to_learn = {"Python basics", "Game Design", "Git", "Public Speaking", "JavaScript"}
+career_interests = {"Game Programming", "Game Development", "software Development"}
+student_hobbies = {"Gaming", "Meditation", "Reading", "Music", "Anime"}
+entertainment_backlog = {"Code Geass", "Gachiakuta", "Tokyo Ghoul"}
